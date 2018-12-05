@@ -1,0 +1,32 @@
+* {
+	margin:0;
+	padding:0;
+}
+ul {
+	list-style-type:none;	
+}
+li {
+	background-color:#ff6600;
+}
+nav>ul>li {
+	display:inline-block;
+	position:relative;
+}
+ul ul {
+	display:none;
+	position:absolute;
+}
+
+ul li:hover>ul {
+	display:block;
+}
+ul ul ul {
+	left:100%;
+	top:66.66%;
+}
+nav a {
+	display:block;
+	width:5em;
+	line-height:3em;
+	vertical-align:center;	
+}
