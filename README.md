@@ -1,3 +1,3 @@
 # MenuHamburger
-Simple Menu Mamburger pour vos sites Web.
+Simple Menu Hamburger pour vos sites Web.
 <br>Rédiger sur Notepad++.
